@@ -1,0 +1,11 @@
+body {
+	background-color:#222222;
+}
+#wrapper {
+	background-color:white;
+	width:90%;
+	margin:.5em auto;
+	border:.5em solid blue;
+	text-align:center;
+}
+/*giving a percentage may help in making a page responsive */
